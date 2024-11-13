@@ -1,0 +1,140 @@
+YouTube
+https://www.youtube.com/watch?v=02fqr3OY1VM
+48:57
+========== HEADER ==========
+.nav__logo
+Pizza
+
+.nav__link
+Accueil - À Propos - Populaire - Pizzas - Contact
+
+
+========== HOME ==========
+.home__title
+Pizzas Croustillantes <br> et Délicieuses
+
+.home__description
+Commandez vos pizzas pour apaiser votre faim 
+et rendez vos moments en famille plus 
+mémorables, passez votre commande maintenant.
+
+
+.button
+Commandez une pizza
+
+
+========== ABOUT ==========
+.section__title
+En savoir plus Sur <br> Nous
+
+.about__description
+Le secret du succès réside dans les meilleurs ingrédients 
+pour faire une succulente pizza. Aujourd'hui, nous recherchons 
+la perfection, comme nous le faisons depuis 15 ans 
+lorsque nous avons ouvert la pizzeria à Paris - France.
+
+.button
+Les Meilleures Pizzas
+
+
+========== POPULAR ==========
+.section__title
+Découvrez <br> les Commandes populaires
+
+.services__description
+Sélectionnez les saveurs que vous aimez. 
+Nous avons rassemblé quelques recettes populaires du monde entier 
+alors choisissez votre favorite.
+
+.popular__title
+Margherita Pizza
+Champignons Pizza
+Pepperoni Pizza
+
+
+========== RECIPE ==========
+.section__title
+Ingrédients Frais et <br> Naturels
+
+.recipe__name .recipe__description
+Farine
+Le meilleur blé du champ pour la meilleure farine.
+
+Fromage
+Prenez du fromage trié parmi les meilleurs de France.
+
+Sauces
+Ajoutez une touche de salsa à votre vie et elle aura meilleur goût.
+
+Légumes
+Des légumes pleins d'essence de la nature et biologiques.
+
+Viandes
+Les meilleures viandes pour votre santé.
+
+
+========== PRODUCTS ==========
+.section__title
+Les Pizzas les plus <br> aimées.
+
+.products__name .products__price
+Végétarienne <br> Pizza
+$15
+
+Pepperoni <br> Pizza
+$10
+
+Margherita <br> Pizza
+$12
+
+Champignons <br> Pizza
+$17
+
+Italian <br> Pizza
+$10
+
+
+========== CONTACT ==========
+.section__title
+Contactez Nous
+
+.contact__title .contact__address
+Nous Écrire
+https://api.whatsapp.com/send?phone=51123456789&text=Hello, more information!
+https://m.me/bedimcode
+https://t.me/telegram
+
+Livraison
++00-987-7654-321 <br>
++11-012345
+
+Emplacement
+Paris - Sun City - France <br>
+Av. Moon #4321
+
+https://maps.app.goo.gl/MAmMDxUBFXBSUzLH7
+Voir sur la Carte
+
+
+========== FOOTER ==========
+.footer__logo
+Pizza
+
+.footer__title
+Social
+https://www.facebook.com/
+https://www.instagram.com/
+https://twitter.com/
+
+Méthodes de Paiement
+
+Abonnez-vous pour des réductions
+Email
+S'Abonner
+
+.footer__policy
+Conditions et accords
+Politique de confidentialité
+
+.footer__copy
+&#169; Tous droits réservés par EWS
